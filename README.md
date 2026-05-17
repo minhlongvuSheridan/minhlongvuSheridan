@@ -84,4 +84,4 @@ I'm a 3rd-year <b>Bachelor of Computer Science (Data Analytics)</b> student at S
 
 ### 💡 Fun Fact
 
-- **What's in a Name?** 🐉 In Vietnamese, my name is written as **Vũ Minh Long**. Each word holds a specific meaning: **Vũ** means *Strength*, **Minh** means *Smart/Bright*, and **Long** means *Dragon*. Put all together, my name and also my mission is meant to be a **"Strong and Smart Dragon"**. I strongly face the hardship and handle it in smart way.
+- **What's in a Name?** 🐉 In Vietnamese, my name is written as **Vũ Minh Long**. So **Long** is actually my first name not **Minh**. Each word holds a specific meaning: **Vũ** means *Strength*, **Minh** means *Smart/Bright*, and **Long** means *Dragon*. Put all together, my name and also my mission is meant to be a **"Strong and Smart Dragon"**. I strongly face the hardship and handle it in smart way.

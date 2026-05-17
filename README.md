@@ -13,11 +13,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=minhlongvuSheridan&color=blue" alt="Unique Visitors" />
-</div>
 
 ###
 

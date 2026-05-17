@@ -37,6 +37,8 @@ I'm a 3rd-year <b>Bachelor of Computer Science (Data Analytics)</b> student at S
 ###
 
 <h3 align="left">📚 Languages:</h3>
+<br>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" align="center" /> <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="25" align="center" /> <b>R</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,10 +47,13 @@ I'm a 3rd-year <b>Bachelor of Computer Science (Data Analytics)</b> student at S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" align="center" /> <b>C++</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" align="center" /> <b>C#</b>
 </div>
+<br>
 
 ###
 
 <h3 align="left">🧰 Libraries & Frameworks:</h3>
+<br>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="25" align="center" /> <b>OpenCV</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="25" align="center" /> <b>Spring</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,6 +63,7 @@ I'm a 3rd-year <b>Bachelor of Computer Science (Data Analytics)</b> student at S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" align="center" /> <b>Git</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" align="center" /> <b>Linux</b>
 </div>
+
 
 ###
 

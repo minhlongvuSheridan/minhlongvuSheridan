@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Minh Long Vu</h1>
+<h1 align="center">Glad You're here 👋 I'm Minh Long Vu</h1>
 
 ###
 
@@ -82,4 +82,6 @@ I'm a 3rd-year <b>Bachelor of Computer Science (Data Analytics)</b> student at S
 - **WalkWise (BearHack 2026)**: Collaborated with a 4-person team over a 36-hour hackathon to build a fantasy-themed vision app integrating **YOLO** for object detection, **Gemini API** for fantasy description, and **ElevenLabs** for fantasy voice.
 - **Mental Health in Tech Industry Case Study**: Participated in a 5-day competition analyzing industry trends regarding mental health in tech and presented findings to industry professionals in a 5-minute competitive pitch.
 
-###
+### 💡 Fun Fact
+
+- **What's in a Name?** 🐉 In Vietnamese, my name is written as **Vũ Minh Long**. Each word holds a specific meaning: **Vũ** means *Strength*, **Minh** means *Smart/Bright*, and **Long** means *Dragon*. Put all together, my name and also my mission is meant to be a **"Strong and Smart Dragon"**. I strongly face the hardship and handle it in smart way.

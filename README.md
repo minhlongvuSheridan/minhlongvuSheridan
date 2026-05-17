@@ -39,7 +39,7 @@ I'm a 3rd-year <b>Bachelor of Computer Science (Data Analytics)</b> student at S
 
 ###
 
-<h3 align="left">📚 Languages</h3>
+<h3 align="left">📚 Languages:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" align="center" /> <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="25" align="center" /> <b>R</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,7 +51,7 @@ I'm a 3rd-year <b>Bachelor of Computer Science (Data Analytics)</b> student at S
 
 ###
 
-<h3 align="left">🧰 Libraries & Tools</h3>
+<h3 align="left">🧰 Libraries & Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="25" align="center" /> <b>OpenCV</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="25" align="center" /> <b>Spring</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

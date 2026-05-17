@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=minhlongvuSheridan.minhlongvuSheridan&"   />
+  <img src="https://komarev.com/ghpvc/?username=minhlongvuSheridan&color=blue" alt="Unique Visitors" />
 </div>
 
 ###
@@ -32,10 +32,12 @@
 <p align="left">
 I'm a 3rd-year <b>Bachelor of Computer Science (Data Analytics)</b> student at Sheridan College in Oakville, ON. I’m an ambitious developer and data enthusiast who loves turning complex datasets into clear, actionable stories and building intelligent, vision-based applications.
 <br><br>
+  
 - 🔭 I’m focused on the the application of combination of three fields: Computer Science, Electrical Enginnering and Mathematic<br>
 - 📚 For now, I'm actively sharpening my skills in Data and AI Engineering first<br>
 - ⚡ In my free time, I love to try modern technology that could bridge the gap between my dream and the reality world.
 </p>
+
 
 ###
 

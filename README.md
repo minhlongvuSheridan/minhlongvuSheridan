@@ -72,6 +72,7 @@ I'm a 3rd-year <b>Bachelor of Computer Science (Data Analytics)</b> student at S
 ###
 
 - **Face Recognition System With YOLO,SORT, and FaceNet**: Built an optimized facial verification app deploying **SORT tracking** to dramatically scale up the processing throughput and detection speeds of a combined **YOLO** and **FaceNet + SVM** pipeline.
+- **Voice AI with Fine Tuning**: A Gen Z-styled voice assistant built with Whisper, TinyLlama, and Kokoro TTS, fine-tuned using QLoRA
 
 ###
 
